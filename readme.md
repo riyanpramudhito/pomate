@@ -4,7 +4,7 @@
 web platform test automation framework
 
 ## Built With
-Here a few major library that built Generak.
+Here a few major library that built Pomate.
 * ([Java](https://www.java.com/))
 * ([Cucumber](https://cucumber.io/))
 * ([Rest Assured](https://rest-assured.io/))
